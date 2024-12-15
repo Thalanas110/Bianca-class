@@ -1,3 +1,4 @@
+haha this is just a sample haha I used chatgpt for this - francis
 # Documentation for the `Bianca` PHP Class
 ## Overview
 The `Bianca` class is a representation of a person named Bianca, designed with attributes and
